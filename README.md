@@ -9,7 +9,7 @@ Olá! Eu me chamo Emerson, sou um desenvolvedor apaixonado por criar soluções 
 ## Tecnologias e Ferramentas
 
 - **Linguagens**: JavaScript/TypeScript, Dart, PHP.
-- **Frameworks**: ReactJS e Flutter.
+- **Frameworks**: ReactJS, Flutter e Laravel.
 - **Ferramentas**: Git, GitHub e VsCode.
 - **Bancos de Dados**: Mysql.
 - **Outros**: Firebase.
