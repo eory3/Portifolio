@@ -55,3 +55,13 @@ Tecnologias usadas: Flutter, Firebase deploy.
 1. Execute o projeto:  
    ```bash
    flutter run
+   
+## Contribuições
+Sinta-se à vontade para contribuir para meus projetos! Se você encontrar algum bug, ou tiver sugestões de melhorias, fique à vontade para abrir um issue ou enviar um pull request.
+
+## Contato
+E-mail: [emerson_rocha3@hotmail.com]
+
+LinkedIn: [https://www.linkedin.com/in/emerson-rocha-17090a21a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+
+Obrigado por visitar meu portfólio! 😊
