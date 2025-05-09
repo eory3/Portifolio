@@ -18,7 +18,7 @@ Olá! Eu me chamo Emerson, sou um desenvolvedor apaixonado por criar soluções 
 
 Aqui estão alguns dos projetos que eu desenvolvi:
 
-### 1. Meu Perfil Profissional (https://eory.com.br/)
+### 1. Meu Perfil Profissional [https://eory.com.br/]
 Descrição: Sistema Responsivo e moderno que demonstra meus conhecimentos com a tecnologia e minha jornada de desenvolvedor.
 
 Tecnologias usadas: ReactJS, Hostinger deploy.
@@ -37,7 +37,7 @@ Tecnologias usadas: ReactJS, Hostinger deploy.
    ```bash
    yarn dev
 
-### 2. Gestor Financeiro (https://finances-455c0.web.app/) Em Desenvolvimento
+### 2. Gestor Financeiro [https://finances-455c0.web.app/] Em Desenvolvimento
 Descrição: Sistema para controle pessoal de finanças.
 
 Tecnologias usadas: Flutter, Firebase deploy.
