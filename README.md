@@ -64,4 +64,4 @@ E-mail: [emerson_rocha3@hotmail.com]
 
 LinkedIn: [www.linkedin.com/in/eory]
 
-Obrigado por visitar meu portfólio! 😊
+Obrigado por visitar meu portfólio!
