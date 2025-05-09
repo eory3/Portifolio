@@ -48,7 +48,7 @@ Tecnologias usadas: Flutter, Firebase deploy.
    git clone https://github.com/eory3/Portifolio.git
 1. Acesse a pasta do projeto:  
    ```bash
-   cd finances
+   cd finance
 1. Instale as dependências:  
    ```bash
    flutter pub get
