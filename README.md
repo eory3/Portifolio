@@ -19,11 +19,39 @@ Olá! Eu me chamo Emerson, sou um desenvolvedor apaixonado por criar soluções 
 Aqui estão alguns dos projetos que eu desenvolvi:
 
 ### 1. Meu Perfil Profissional (https://eory.com.br/)
-Descrição: Sistema desenvolvido em ReactJS responsivo que demonstra meus conhecimentos com a tecnologia.
+Descrição: Sistema Responsivo e moderno que demonstra meus conhecimentos com a tecnologia e minha jornada de desenvolvedor.
 
-Tecnologias usadas: ReactJS.
+Tecnologias usadas: ReactJS, Hostinger deploy.
 
 #### Como rodar o projeto
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/eory3/Portifolio.git
+1. Acesse a pasta do projeto:  
+   ```bash
+   cd portifolio
+1. Instale as dependências:  
+   ```bash
+   yarn
+1. Execute o projeto:  
+   ```bash
+   yarn dev
+
+### 1. Gestor Financeiro (https://finances-455c0.web.app/)
+Descrição: Sistema para controle pessoal de finanças.
+
+Tecnologias usadas: Flutter, Firebase deploy.
+
+#### Como rodar o projeto
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/eory3/Portifolio.git
+1. Acesse a pasta do projeto:  
+   ```bash
+   cd finances
+1. Instale as dependências:  
+   ```bash
+   flutter pub get
+1. Execute o projeto:  
+   ```bash
+   flutter run
