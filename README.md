@@ -62,6 +62,6 @@ Sinta-se à vontade para contribuir para meus projetos! Se você encontrar algum
 ## Contato
 E-mail: [emerson_rocha3@hotmail.com]
 
-LinkedIn: [https://www.linkedin.com/in/emerson-rocha-17090a21a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+LinkedIn: [www.linkedin.com/in/eory]
 
 Obrigado por visitar meu portfólio! 😊
